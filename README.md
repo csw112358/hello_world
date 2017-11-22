@@ -3,4 +3,4 @@
 
 # just some additional text here
 
-# I added this line in vs code to see if git integration is working locally
+# Does this line show up on the file globally (added in vs code)
